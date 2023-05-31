@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Het Desai</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 
-- 🔭 I’m currently working on [MyCVMaker](www.mycvmaker.site)
+- 🔭 I’m currently working on [MyCVMaker](http://www.mycvmaker.site)
 
 - 🌱 I’m currently learning **Cypress**
 
